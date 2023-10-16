@@ -1,7 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **semihceltik/semihceltik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Uploading RKN35tB.gif…]()
 
 Here are some ideas to get you started:
 
