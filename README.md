@@ -1,8 +1,8 @@
-
+![RKN35tB](https://github.com/semihceltik/semihceltik/assets/56488622/3f7f7d33-b3d1-441c-b9c0-349a96e598e6)
 
 <!--
 **semihceltik/semihceltik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![RKN35tB](https://github.com/semihceltik/semihceltik/assets/56488622/3f7f7d33-b3d1-441c-b9c0-349a96e598e6)
+
 
 
 Here are some ideas to get you started:
