@@ -1,6 +1,6 @@
 .Net
 📫 How to reach me: semihcltk@gmail.com
-![xd1](https://github.com/semihceltik/semihceltik/assets/56488622/be581758-3a20-42d0-a5b7-76f7dcaba6f9)
+
 ![xd2](https://github.com/semihceltik/semihceltik/assets/56488622/f1277542-853f-43c6-a097-32cfaa07a9df)
 
 <!--
