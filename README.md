@@ -2,7 +2,7 @@
 
 <p>📫 How to reach me: semihcltk@gmail.com</p>
 
-![xd2](https://github.com/semihceltik/semihceltik/assets/56488622/f1277542-853f-43c6-a097-32cfaa07a9df)
+
 
 <!--
 **semihceltik/semihceltik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
