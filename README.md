@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adem Semih Çeltik</h1>
-<h3 align="center">An enthusiastic backend developer from Turkey.</h3>
+<h3 align="center">An enthusiastic gamedeveloper from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semihceltik&label=Profile%20views&color=0e75b6&style=flat" alt="semihceltik" /> </p>
 
