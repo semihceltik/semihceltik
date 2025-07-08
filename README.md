@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semihceltik&label=Profile%20views&color=0e75b6&style=flat" alt="semihceltik" /> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Lua**
 
 - 📫 How to reach me **semihcltk@gmail.com**
 
